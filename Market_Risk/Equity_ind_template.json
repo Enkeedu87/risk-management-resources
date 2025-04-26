@@ -1,0 +1,86 @@
+{
+    "^GSPC": {
+        "name": "S&P 500",
+        "fx_symbol": null,
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^DJI": {
+        "name": "Dow Jones Industrial Average",
+        "fx_symbol": null,
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^IXIC": {
+        "name": "NASDAQ Composite",
+        "fx_symbol": null,
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^FTSE": {
+        "name": "FTSE 100",
+        "fx_symbol": "GBPUSD=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^GDAXI": {
+        "name": "DAX",
+        "fx_symbol": "EURUSD=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^FCHI": {
+        "name": "CAC 40",
+        "fx_symbol": "EURUSD=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^SSMI": {
+        "name": "Swiss Market Index (SMI)",
+        "fx_symbol": "CHFUSD=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^IBEX": {
+        "name": "IBEX 35",
+        "fx_symbol": "EURUSD=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^STOXX50E": {
+        "name": "EURO STOXX 50",
+        "fx_symbol": "EURUSD=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^N225": {
+        "name": "Nikkei 225",
+        "fx_symbol": "JPY=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^HSI": {
+        "name": "Hang Seng Index",
+        "fx_symbol": "HKD=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "000001.SS": {
+        "name": "Shanghai Composite Index",
+        "fx_symbol": "CNY=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^HSCE": {
+        "name": "Hang Seng China Enterprises Index",
+        "fx_symbol": "HKD=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    },
+    "^BSESN": {
+        "name": "S&P BSE SENSEX",
+        "fx_symbol": "INR=X",
+        "index_usd_values_pre_covid": null,
+        "index_usd_values_with_covid": null
+    }
+}
