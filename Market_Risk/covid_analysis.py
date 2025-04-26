@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 26 19:22:01 2025
-
-@author: mograbgl
-"""
-
 import yfinance as yf
 
 def download_and_fill_equity_data(Equity_ind, start_date, end_date, period_field, progress=True):
@@ -24,7 +17,7 @@ def download_and_fill_equity_data(Equity_ind, start_date, end_date, period_field
         Field name to store the downloaded USD-adjusted DataFrame 
         (e.g., 'index_usd_values_pre_covid' or 'index_usd_values_with_covid').
     progress : bool, optional
-        Show download progress bar (default is False).
+        Show download progress bar (default is True).
 
     Returns
     -------
